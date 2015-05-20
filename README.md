@@ -5,7 +5,7 @@ FTV Guide allows you to combine some of your favourite live TV plugins for use w
 
 Based on the original TV Guide by twinther.
 
-This repository is maintained by rayw1986 and bluezed.
+This repository is maintained by rayw1986 and bluezed and FreeNetCable.
 
 For official support go to the forums on [tvaddons.ag](http://forums.tvaddons.ag/threads/22837-RELEASE-FTV-Guide)
 
